@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **abdul-muid/abdul-muid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Abdul Muid, and I'm on a quest to explore the infinite possibilities that data science and programming offer. 🚀
+### Hello
+
+I'm Abdul Muid, and I'm on a quest to explore the infinite possibilities that data science and programming offer. 🚀
 
 With a strong love for numbers and code, I'm constantly experimenting with algorithms, data sets, and the latest tech trends. From crunching data to crafting elegant code, I'm in my element when solving challenging problems. 
 
